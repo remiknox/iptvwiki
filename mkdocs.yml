@@ -2,3 +2,4 @@ site_name: IPTV Wiki (demo)
 nav:
   - Home: index.md
   - About: about.md
+  - Test: test.md
