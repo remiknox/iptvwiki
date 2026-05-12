@@ -1,17 +1,30 @@
-# Welcome to MkDocs
+# Start Here
+The below post is a good introduction to some of the best educational content on the sub. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![[Official Introduction to IPTVGROUPBUY, the last IPTV subreddit you will ever need]]
 
-## Commands
+# Tools Used
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+To extract this content from the banned subreddit, I used the following tools which take advantage of Reddit's APIs to view banned content
 
-## Project layout
+* https://ihsoyct.github.io/
+* https://search.pullpush.io/
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Notable Users
+Thanks to the following users who contributed to educational content in the r/IPTVGroupBuy subreddit:
+
+* u/jcumb3r
+* u/cryptohashbrown
+* u/dfoolio
+* u/1989guy
+* u/sonofdisaster
+* u/Educational-Ring1091 
+* u/mrrobvs
+* u/Capital2
+* u/clausconrad
+* u/afckinidiot
+* u/jiml4hey
+* u/gusestrella
+* u/514link
+* u/HunterSThompson64
+* u/halfagascan
